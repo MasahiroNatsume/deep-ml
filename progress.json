@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T06:38:03.116Z",
+  "generated_at": "2026-11-03T06:53:53.968Z",
   "items": {
     "math:10": {
       "kind": "math",
@@ -107,6 +107,17 @@
       "path": "math/0410-woodbury-sherman-morrison-and-the-matrix-determinant-lemma",
       "first_solved_at": "2026-11-03T06:38:02.425Z",
       "last_pushed_at": "2026-11-03T06:38:02.425Z"
+    },
+    "math:34": {
+      "kind": "math",
+      "id": "34",
+      "title": "Least Squares and the Normal Equations",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/34",
+      "path": "math/0034-least-squares-and-the-normal-equations",
+      "first_solved_at": "2026-11-03T06:53:53.399Z",
+      "last_pushed_at": "2026-11-03T06:53:53.399Z"
     }
   }
 }
